@@ -1,10 +1,12 @@
-<html>
-  <head>
-    <title>Botpress Webchat</title>
-    <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
-    <script src="https://files.bpcontent.cloud/2024/10/10/19/20241010190434-JJ4625Z7.js"></script>
-  </head>
-  <body>
-    <!-- Botpress Webchat will automatically appear here -->
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Page</title>
+</head>
+<body>
+    <h1>This is a test page</h1>
+</body>
 </html>
+
