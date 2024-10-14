@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test Page</title>
+    <title>Botpress Chatbot</title>
 </head>
 <body>
-    <h1>This is a test page</h1>
+    <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
+    <script src="https://files.bpcontent.cloud/2024/10/10/19/20241010190434-JJ4625Z7.js"></script>
 </body>
 </html>
-
